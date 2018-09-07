@@ -1,0 +1,13 @@
+.App-header {
+  height: 100px;
+  background-image: linear-gradient(
+    to right,
+    #0071bc,
+    #1978bc,
+    #2b7fbb,
+    #3b86ba,
+    #4a8db9
+  );
+  padding: 20px;
+  text-align: center;
+}
